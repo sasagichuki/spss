@@ -1,1 +1,1 @@
-var pdf = 'pdf/SSPS_mag.pdf';
+var pdf = 'pdf/the_mag.pdf';
