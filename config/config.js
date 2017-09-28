@@ -1,5 +1,5 @@
     var options = {
-        height: '100%',
+        height: '200%',
         Page_Flip_Sound_Enable: true,
         Open_Table_of_Contents_on_Start: false,
         Allow_PDF_Download: true,
@@ -11,11 +11,11 @@
 	
  
 	
-	options.outline = [
-		{title: "Cover", dest: 1},
-		{title: "Page 1", dest: 2},
-		{title: "Page 2", dest: 3},
-		{title: "Page 3", dest: 4},
-	];
+	// options.outline = [
+	// 	{title: "Cover", dest: 1},
+	// 	{title: "Page 1", dest: 2},
+	// 	{title: "Page 2", dest: 3},
+	// 	{title: "Page 3", dest: 4},
+	// ];
 
 	
